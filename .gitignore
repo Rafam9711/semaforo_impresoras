@@ -1,9 +1,15 @@
-__pycache__/
-*.pyc
-.env
-lib/
-share/
+# Ignorar entornos virtuales
 impresoras/lib/
 impresoras/share/
 impresoras/pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración local
+.env
+.vscode/
+.idea/
 
