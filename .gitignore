@@ -1,2 +1,9 @@
+__pycache__/
+*.pyc
 .env
+lib/
+share/
+impresoras/lib/
+impresoras/share/
+impresoras/pyvenv.cfg
 
